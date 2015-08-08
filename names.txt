@@ -1,0 +1,12 @@
+insertion sort   +
+selection sort   +
+merge sort       +
+bottom up merge sort
+quick sort 
+counting sort,
+binary search
+upper bound,
+lower bound,
+stack
+queue
+list
